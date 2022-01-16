@@ -6,3 +6,4 @@ requests
 pygame
 speech_recognition
 gTTS
+tensorflow==1.15.0rc1
